@@ -165,4 +165,8 @@ span {
     .banner-img {
         width: 100%;
     }
+    .social-links {
+        display: flex;
+        justify content: center;
+    }
   }
